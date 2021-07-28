@@ -1,0 +1,1013 @@
+INC_CODE,CATEGORY,SUBCATEGORY,UCR_part_1,UCR_part_1_code
+1000,homicide,homicide,homicide ,1
+1001,homicide,homicide,homicide ,1
+1002,homicide,homicide,homicide ,1
+1003,homicide,homicide,homicide ,1
+1004,homicide,homicide,homicide ,1
+1005,homicide,homicide,homicide ,1
+1007,homicide,homicide,homicide ,1
+1041,homicide,manslaughter,homicide ,1
+1042,homicide,manslaughter,homicide ,1
+1043,homicide,manslaughter,homicide ,1
+1044,homicide,manslaughter,homicide ,1
+1051,homicide,homicide - justifiable,,
+1052,homicide,homicide - justifiable,,
+1053,homicide,homicide - justifiable,,
+1054,homicide,homicide - justifiable,,
+1061,homicide,homicide - excusable,,
+1062,homicide,homicide - excusable,,
+1063,homicide,homicide - excusable,,
+1064,homicide,homicide - excusable,,
+1072,homicide,manslaughter,homicide ,1
+1074,homicide,homicide - justifiable,,
+1110,homicide,manslaughter,homicide ,1
+1131,homicide,manslaughter,homicide ,1
+1132,homicide,manslaughter,homicide ,1
+1133,homicide,manslaughter,homicide ,1
+1134,homicide,manslaughter,homicide ,1
+1140,homicide,manslaughter,homicide ,1
+1150,homicide,manslaughter,homicide ,1
+1160,homicide,manslaughter,homicide ,1
+2001,rape,rape,rape,2
+2002,rape,rape,rape,2
+2003,rape,rape,rape,2
+2004,rape,rape,rape,2
+2005,rape,rape,rape,2
+2010,rape,rape,rape,2
+2020,rape,rape,rape,2
+2101,rape,rape - attempted,rape,2
+2102,rape,rape - attempted,rape,2
+2103,rape,rape - attempted,rape,2
+2104,rape,rape - attempted,rape,2
+2201,rape,rape - attempted,rape,2
+2202,rape,rape - attempted,rape,2
+2203,rape,rape - attempted,rape,2
+2204,rape,rape - attempted,rape,2
+3011,robbery,robbery - street,robbery,3
+3012,robbery,robbery - street,robbery,3
+3013,robbery,robbery - street,robbery,3
+3014,robbery,robbery - street,robbery,3
+3021,robbery,robbery - commercial,robbery,3
+3022,robbery,robbery - commercial,robbery,3
+3023,robbery,robbery - commercial,robbery,3
+3024,robbery,robbery - commercial,robbery,3
+3031,robbery,robbery - commercial,robbery,3
+3032,robbery,robbery - commercial,robbery,3
+3033,robbery,robbery - commercial,robbery,3
+3034,robbery,robbery - commercial,robbery,3
+3041,robbery,robbery - commercial,robbery,3
+3042,robbery,robbery - commercial,robbery,3
+3043,robbery,robbery - commercial,robbery,3
+3044,robbery,robbery - commercial,robbery,3
+3051,robbery,robbery - commercial,robbery,3
+3052,robbery,robbery - commercial,robbery,3
+3053,robbery,robbery - commercial,robbery,3
+3054,robbery,robbery - commercial,robbery,3
+3061,robbery,robbery - commercial,robbery,3
+3062,robbery,robbery - commercial,robbery,3
+3063,robbery,robbery - commercial,robbery,3
+3064,robbery,robbery - commercial,robbery,3
+3071,robbery,robbery - other,robbery,3
+3072,robbery,robbery - other,robbery,3
+3073,robbery,robbery - other,robbery,3
+3074,robbery,robbery - other,robbery,3
+3081,robbery,robbery - carjacking,robbery,3
+3082,robbery,robbery - carjacking,robbery,3
+3083,robbery,robbery - carjacking,robbery,3
+3084,robbery,robbery - carjacking,robbery,3
+3091,robbery,robbery - other,robbery,3
+3092,robbery,robbery - other,robbery,3
+3093,robbery,robbery - other,robbery,3
+3094,robbery,robbery - other,robbery,3
+3401,robbery,robbery - commercial,robbery,3
+3411,robbery,robbery - street,robbery,3
+3412,robbery,robbery - street,robbery,3
+3413,robbery,robbery - street,robbery,3
+3414,robbery,robbery - street,robbery,3
+3421,robbery,robbery - commercial,robbery,3
+3422,robbery,robbery - commercial,robbery,3
+3423,robbery,robbery - commercial,robbery,3
+3424,robbery,robbery - commercial,robbery,3
+3431,robbery,robbery - commercial,robbery,3
+3432,robbery,robbery - commercial,robbery,3
+3433,robbery,robbery - commercial,robbery,3
+3434,robbery,robbery - commercial,robbery,3
+3441,robbery,robbery - commercial,robbery,3
+3442,robbery,robbery - commercial,robbery,3
+3443,robbery,robbery - commercial,robbery,3
+3444,robbery,robbery - commercial,robbery,3
+3451,robbery,robbery - residential,robbery,3
+3452,robbery,robbery - residential,robbery,3
+3453,robbery,robbery - residential,robbery,3
+3454,robbery,robbery - residential,robbery,3
+3461,robbery,robbery - commercial,robbery,3
+3462,robbery,robbery - commercial,robbery,3
+3463,robbery,robbery - commercial,robbery,3
+3464,robbery,robbery - commercial,robbery,3
+3471,robbery,robbery - other,robbery,3
+3472,robbery,robbery - other,robbery,3
+3473,robbery,robbery - other,robbery,3
+3474,robbery,robbery - other,robbery,3
+3481,robbery,robbery - commercial,robbery,3
+3482,robbery,robbery - commercial,robbery,3
+3483,robbery,robbery - commercial,robbery,3
+3484,robbery,robbery - commercial,robbery,3
+3491,robbery,robbery - other,robbery,3
+3492,robbery,robbery - other,robbery,3
+3493,robbery,robbery - other,robbery,3
+3494,robbery,robbery - other,robbery,3
+4011,assault,aggravated assault,aggravated assault,4
+4012,assault,aggravated assault,aggravated assault,4
+4013,assault,aggravated assault,aggravated assault,4
+4014,assault,aggravated assault,aggravated assault,4
+4021,assault,aggravated assault,aggravated assault,4
+4022,assault,aggravated assault,aggravated assault,4
+4023,assault,aggravated assault,aggravated assault,4
+4024,assault,aggravated assault,aggravated assault,4
+4025,assault,aggravated assault,aggravated assault,4
+4026,assault,aggravated assault,aggravated assault,4
+4033,assault,aggravated assault,aggravated assault,4
+4043,assault,aggravated assault,aggravated assault,4
+4051,assault,aggravated assault,aggravated assault,4
+4052,assault,aggravated assault,aggravated assault,4
+4053,assault,aggravated assault,aggravated assault,4
+4054,assault,aggravated assault,aggravated assault,4
+4061,assault,aggravated assault,aggravated assault,4
+4062,assault,aggravated assault,aggravated assault,4
+4063,assault,aggravated assault,aggravated assault,4
+4064,assault,aggravated assault,aggravated assault,4
+4072,assault,aggravated assault,aggravated assault,4
+4073,assault,aggravated assault,aggravated assault,4
+4074,assault,aggravated assault,aggravated assault,4
+4076,assault,aggravated assault,aggravated assault,4
+4080,assault,aggravated assault,aggravated assault,4
+4081,assault,aggravated assault,aggravated assault,4
+4082,assault,aggravated assault,aggravated assault,4
+4083,assault,aggravated assault,aggravated assault,4
+4084,assault,aggravated assault,aggravated assault,4
+4085,assault,aggravated assault,aggravated assault,4
+4090,assault,aggravated assault,aggravated assault,4
+4091,assault,aggravated assault,aggravated assault,4
+4092,assault,aggravated assault,aggravated assault,4
+4093,assault,aggravated assault,aggravated assault,4
+4094,assault,aggravated assault,aggravated assault,4
+4095,assault,aggravated assault,aggravated assault,4
+4096,assault,aggravated assault,aggravated assault,4
+4097,assault,aggravated assault,aggravated assault,4
+4098,assault,aggravated assault,aggravated assault,4
+4104,assault,simple assault,,
+4114,assault,simple assault,,
+4124,assault,simple assault,,
+4134,assault,simple assault,,
+4136,assault,simple assault,,
+4138,assault,simple assault,,
+4144,assault,simple assault,,
+4145,assault,aggravated assault,aggravated assault,4
+4146,assault,simple assault,,
+4154,assault,simple assault,,
+4170,assault,simple assault,,
+5011,burglary,burglary - residential,burglary ,5
+5012,burglary,burglary - residential,burglary ,5
+5013,burglary,burglary - residential,burglary ,5
+5014,larceny theft,theft from vehicle,,
+5015,larceny theft,theft from vehicle,,
+5021,burglary,burglary - residential,burglary ,5
+5022,burglary,burglary - residential,burglary ,5
+5023,burglary,burglary - residential,burglary ,5
+5031,burglary,burglary - residential,burglary ,5
+5032,burglary,burglary - residential,burglary ,5
+5033,burglary,burglary - residential,burglary ,5
+5041,burglary,burglary - residential,burglary ,5
+5042,burglary,burglary - residential,burglary ,5
+5043,burglary,burglary - residential,burglary ,5
+5051,burglary,burglary - commercial,burglary ,5
+5052,burglary,burglary - commercial,burglary ,5
+5053,burglary,burglary - commercial,burglary ,5
+5061,burglary,burglary - commercial,burglary ,5
+5062,burglary,burglary - commercial,burglary ,5
+5063,burglary,burglary - commercial,burglary ,5
+5071,burglary,burglary - other,burglary ,5
+5072,burglary,burglary - other,burglary ,5
+5073,burglary,burglary - other,burglary ,5
+5081,burglary,burglary - hot prowl,burglary ,5
+5082,burglary,burglary - hot prowl,burglary ,5
+5083,burglary,burglary - hot prowl,burglary ,5
+5111,burglary,burglary - residential,burglary ,5
+5112,burglary,burglary - residential,burglary ,5
+5113,burglary,burglary - residential,burglary ,5
+5121,burglary,burglary - residential,burglary ,5
+5122,burglary,burglary - residential,burglary ,5
+5123,burglary,burglary - residential,burglary ,5
+5131,burglary,burglary - residential,burglary ,5
+5132,burglary,burglary - residential,burglary ,5
+5133,burglary,burglary - residential,burglary ,5
+5141,burglary,burglary - residential,burglary ,5
+5142,burglary,burglary - residential,burglary ,5
+5143,burglary,burglary - residential,burglary ,5
+5151,burglary,burglary - other,burglary ,5
+5152,burglary,burglary - other,burglary ,5
+5153,burglary,burglary - other,burglary ,5
+5161,burglary,burglary - commercial,burglary ,5
+5162,burglary,burglary - commercial,burglary ,5
+5163,burglary,burglary - commercial,burglary ,5
+5171,burglary,burglary - other,burglary ,5
+5172,burglary,burglary - other,burglary ,5
+5173,burglary,burglary - other,burglary ,5
+5211,burglary,burglary - residential,burglary ,5
+5221,burglary,burglary - residential,burglary ,5
+5231,burglary,burglary - residential,burglary ,5
+5241,burglary,burglary - residential,burglary ,5
+5251,burglary,burglary - commercial,burglary ,5
+5261,burglary,burglary - commercial,burglary ,5
+5271,burglary,burglary - other,burglary ,5
+5311,burglary,burglary - residential,burglary ,5
+5321,burglary,burglary - residential,burglary ,5
+5331,burglary,burglary - residential,burglary ,5
+5341,burglary,burglary - residential,burglary ,5
+5351,burglary,burglary - commercial,burglary ,5
+5361,burglary,burglary - commercial,burglary ,5
+5371,burglary,burglary - other,burglary ,5
+6110,larceny theft,larceny theft - pickpocket,larceny theft,6
+6111,larceny theft,larceny theft - pickpocket,larceny theft,6
+6112,larceny theft,larceny theft - pickpocket,larceny theft,6
+6113,larceny theft,larceny theft - pickpocket,larceny theft,6
+6114,larceny theft,larceny theft - pickpocket,larceny theft,6
+6120,larceny theft,larceny theft - other,larceny theft,6
+6121,larceny theft,larceny theft - other,larceny theft,6
+6122,larceny theft,larceny theft - other,larceny theft,6
+6123,larceny theft,larceny theft - other,larceny theft,6
+6124,larceny theft,larceny theft - other,larceny theft,6
+6125,larceny theft,larceny theft - other,larceny theft,6
+6126,larceny theft,larceny theft - other,larceny theft,6
+6130,larceny theft,larceny theft - purse snatch,larceny theft,6
+6131,larceny theft,larceny theft - purse snatch,larceny theft,6
+6132,larceny theft,larceny theft - purse snatch,larceny theft,6
+6133,larceny theft,larceny theft - purse snatch,larceny theft,6
+6134,larceny theft,larceny theft - purse snatch,larceny theft,6
+6140,larceny theft,larceny theft - purse snatch,larceny theft,6
+6141,larceny theft,larceny theft - other,larceny theft,6
+6142,larceny theft,larceny theft - other,larceny theft,6
+6143,larceny theft,larceny theft - other,larceny theft,6
+6144,larceny theft,larceny theft - other,larceny theft,6
+6150,larceny theft,larceny theft - other,larceny theft,6
+6151,larceny theft,larceny theft - other,larceny theft,6
+6152,larceny theft,larceny theft - other,larceny theft,6
+6153,larceny theft,larceny theft - other,larceny theft,6
+6154,larceny theft,larceny theft - other,larceny theft,6
+6157,larceny theft,larceny theft - other,larceny theft,6
+6210,larceny theft,larceny - auto parts,larceny theft,6
+6211,larceny theft,larceny - auto parts,larceny theft,6
+6212,larceny theft,larceny - auto parts,larceny theft,6
+6213,larceny theft,larceny - auto parts,larceny theft,6
+6214,larceny theft,larceny - auto parts,larceny theft,6
+6220,larceny theft,larceny - from vehicle,larceny theft,6
+6221,larceny theft,larceny - from vehicle,larceny theft,6
+6222,larceny theft,larceny - from vehicle,larceny theft,6
+6223,larceny theft,larceny - from vehicle,larceny theft,6
+6224,larceny theft,larceny - from vehicle,larceny theft,6
+6230,larceny theft,larceny - auto parts,larceny theft,6
+6231,larceny theft,larceny - auto parts,larceny theft,6
+6232,larceny theft,larceny - auto parts,larceny theft,6
+6233,larceny theft,larceny - auto parts,larceny theft,6
+6234,larceny theft,larceny - auto parts,larceny theft,6
+6240,larceny theft,larceny - from vehicle,larceny theft,6
+6241,larceny theft,larceny - from vehicle,larceny theft,6
+6242,larceny theft,larceny - from vehicle,larceny theft,6
+6243,larceny theft,larceny - from vehicle,larceny theft,6
+6244,larceny theft,larceny - from vehicle,larceny theft,6
+6246,larceny theft,larceny theft - other,larceny theft,6
+6300,larceny theft,larceny theft - from building,larceny theft,6
+6301,larceny theft,larceny theft - from building,larceny theft,6
+6302,larceny theft,larceny theft - from building,larceny theft,6
+6303,larceny theft,larceny theft - from building,larceny theft,6
+6304,larceny theft,larceny theft - from building,larceny theft,6
+6310,larceny theft,larceny theft - bicycle,larceny theft,6
+6312,larceny theft,larceny theft - bicycle,larceny theft,6
+6313,larceny theft,larceny theft - bicycle,larceny theft,6
+6314,larceny theft,larceny theft - bicycle,larceny theft,6
+6315,larceny theft,larceny theft - bicycle,larceny theft,6
+6316,larceny theft,larceny theft - bicycle,larceny theft,6
+6340,larceny theft,larceny theft - other,larceny theft,6
+6341,larceny theft,larceny theft - other,larceny theft,6
+6342,larceny theft,larceny theft - other,larceny theft,6
+6343,larceny theft,larceny theft - other,larceny theft,6
+6344,larceny theft,larceny theft - other,larceny theft,6
+6360,larceny theft,larceny theft - shoplifting,larceny theft,6
+6361,larceny theft,larceny theft - shoplifting,larceny theft,6
+6362,larceny theft,larceny theft - shoplifting,larceny theft,6
+6363,larceny theft,larceny theft - shoplifting,larceny theft,6
+6364,larceny theft,larceny theft - shoplifting,larceny theft,6
+6365,larceny theft,larceny theft - other,larceny theft,6
+6370,larceny theft,larceny theft - other,larceny theft,6
+6371,larceny theft,larceny theft - other,larceny theft,6
+6372,larceny theft,larceny theft - other,larceny theft,6
+6373,larceny theft,larceny theft - other,larceny theft,6
+6374,larceny theft,larceny theft - other,larceny theft,6
+6375,larceny theft,larceny theft - other,larceny theft,6
+6376,larceny theft,larceny theft - other,larceny theft,6
+6381,larceny theft,larceny theft - other,larceny theft,6
+6383,larceny theft,larceny theft - other,larceny theft,6
+6385,larceny theft,larceny theft - other,larceny theft,6
+6386,larceny theft,larceny theft - other,larceny theft,6
+6391,larceny theft,larceny theft - other,larceny theft,6
+6394,larceny theft,larceny theft - other,larceny theft,6
+6395,larceny theft,larceny theft - other,larceny theft,6
+6396,larceny theft,larceny theft - other,larceny theft,6
+6397,larceny theft,larceny theft - other,larceny theft,6
+6398,larceny theft,larceny theft - other,larceny theft,6
+6400,larceny theft,larceny theft - other,larceny theft,6
+6401,larceny theft,larceny theft - other,larceny theft,6
+7020,motor vehicle theft,motor vehicle theft,motor vehicle theft,7
+7021,motor vehicle theft,motor vehicle theft,motor vehicle theft,7
+7022,motor vehicle theft,motor vehicle theft,motor vehicle theft,7
+7023,motor vehicle theft,motor vehicle theft,motor vehicle theft,7
+7024,motor vehicle theft,motor vehicle theft,motor vehicle theft,7
+7025,motor vehicle theft,motor vehicle theft,motor vehicle theft,7
+7026,motor vehicle theft,motor vehicle theft,motor vehicle theft,7
+7027,motor vehicle theft?,motor vehicle theft,motor vehicle theft,7
+7030,larceny theft,larceny theft - other,larceny theft,6
+7041,recovered vehicle,recovered vehicle,,
+7042,recovered vehicle,recovered vehicle,,
+7043,recovered vehicle,recovered vehicle,,
+7044,recovered vehicle,recovered vehicle,,
+7045,recovered vehicle,recovered vehicle,,
+7046,recovered vehicle,recovered vehicle,,
+7051,motor vehicle theft,motor vehicle theft (attempted),motor vehicle theft,7
+7052,embezzlement,embezzlement,,
+7053,vehicle impounded,vehicle impounded,,
+7054,vehicle misplaced,vehicle misplaced,,
+7055,motor vehicle theft,motor vehicle theft,motor vehicle theft,7
+7056,embezzlement,embezzlement,,
+7100,vandalism,vandalism,,
+7200,forgery and counterfeiting,forgery and counterfeiting,,
+7201,forgery and counterfeiting,forgery and counterfeiting,,
+7202,other miscellaneous,other,,
+7203,other miscellaneous,other,,
+7204,other miscellaneous,other,,
+7205,other miscellaneous,other,,
+7206,other miscellaneous,other,,
+9010,other miscellaneous,other,,
+9015,forgery and counterfeiting,forgery and counterfeiting,,
+9016,forgery and counterfeiting,forgery and counterfeiting,,
+9020,forgery and counterfeiting,forgery and counterfeiting,,
+9021,other miscellaneous,other,,
+9022,fraud,fraud,,
+9023,fraud,fraud,,
+9024,fraud,fraud,,
+9025,fraud,fraud,,
+9026,fraud,fraud,,
+9027,fraud,fraud,,
+9028,fraud,fraud,,
+9029,fraud,fraud,,
+9030,fraud,fraud,,
+9031,stolen property,stolen property,,
+9032,fraud,fraud,,
+9033,fraud,fraud,,
+9034,fraud,fraud,,
+9035,fraud,bad checks,,
+9040,fraud,fraud,,
+9050,fraud,fraud,,
+9060,fraud,fraud,,
+9110,forgery and counterfeiting,forgery and counterfeiting,,
+9120,forgery and counterfeiting,forgery and counterfeiting,,
+9125,forgery and counterfeiting,forgery and counterfeiting,,
+9130,forgery and counterfeiting,forgery and counterfeiting,,
+9140,forgery and counterfeiting,forgery and counterfeiting,,
+9150,forgery and counterfeiting,forgery and counterfeiting,,
+9161,fraud,fraud,,
+9162,fraud,fraud,,
+9163,fraud,fraud,,
+9164,fraud,fraud,,
+9165,fraud,fraud,,
+9166,fraud,fraud,,
+9167,fraud,fraud,,
+9168,fraud,fraud,,
+9169,fraud,fraud,,
+9171,,,,
+9172,fraud,fraud,,
+9173,fraud,fraud,,
+9174,forgery and counterfeiting,forgery and counterfeiting,,
+9175,forgery and counterfeiting,forgery and counterfeiting,,
+9176,fraud,fraud,,
+9210,forgery and counterfeiting,forgery and counterfeiting,,
+9215,forgery and counterfeiting,forgery and counterfeiting,,
+9220,forgery and counterfeiting,forgery and counterfeiting,,
+9250,fraud,fraud,,
+9261,forgery and counterfeiting,forgery and counterfeiting,,
+9262,forgery and counterfeiting,forgery and counterfeiting,,
+9263,fraud,fraud,,
+9264,fraud,fraud,,
+9265,fraud,fraud,,
+9266,fraud,fraud,,
+9267,fraud,fraud,,
+9268,fraud,fraud,,
+9269,fraud,fraud,,
+9270,fraud,fraud,,
+9271,fraud,fraud,,
+9310,fraud,fraud,,
+9320,fraud,fraud,,
+9330,fraud,fraud,,
+9340,fraud,fraud,,
+10010,embezzlement,embezzlement,,
+10015,embezzlement,embezzlement,,
+10020,embezzlement,embezzlement,,
+10025,embezzlement,embezzlement,,
+10030,embezzlement,embezzlement,,
+10035,embezzlement,embezzlement,,
+10040,embezzlement,embezzlement,,
+10045,embezzlement,embezzlement,,
+10050,embezzlement,embezzlement,,
+10055,embezzlement,embezzlement,,
+10060,embezzlement,embezzlement,,
+10065,embezzlement,embezzlement,,
+10070,embezzlement,embezzlement,,
+10075,embezzlement,embezzlement,,
+10080,embezzlement,embezzlement,,
+10085,embezzlement,embezzlement,,
+10090,embezzlement,embezzlement,,
+10110,fraud,fraud,,
+10115,fraud,fraud,,
+10117,fraud,fraud,,
+10120,fraud,fraud,,
+10125,fraud,fraud,,
+10130,fraud,fraud,,
+10140,fraud,fraud,,
+10145,larceny theft,larceny theft - other,larceny theft,6
+10149,forgery and counterfeiting,forgery and counterfeiting,,
+11011,stolen property,stolen property,,
+11012,stolen property,stolen property,,
+11013,stolen property,stolen property,,
+11014,stolen property,stolen property,,
+11015,stolen property,stolen property,,
+11016,stolen property,stolen property,,
+11017,stolen property,stolen property,,
+12006,weapons offense,weapons offense,,
+12008,suspicious,suspicious package,,
+12010,weapons offense,weapons offense,,
+12015,weapons offense,weapons offense,,
+12024,weapons offense,weapons offense,,
+12025,weapons offense,weapons offense,,
+12026,assault,aggravated assault,,
+12027,weapons offense,weapons offense,,
+12030,weapons offense,weapons offense,,
+12040,weapons offense,weapons offense,,
+12050,weapons offence,weapons offense,,
+12055,weapons offense,weapons offense,,
+12060,weapons offense,weapons offense,,
+12065,weapons offense,weapons offense,,
+12068,other miscellaneous,other,,
+12070,weapons carrying etc,weapons offense,,
+12080,weapons carrying etc,weapons offense,,
+12090,weapons carrying etc,weapons offense,,
+12100,weapons carrying etc,weapons offense,,
+12110,weapons carrying etc,weapons offense,,
+12120,weapons carrying etc,weapons offense,,
+12130,weapons carrying etc,weapons offense,,
+12140,weapons carrying etc,weapons offense,,
+12150,weapons carrying etc,weapons offense,,
+12160,weapons carrying etc,weapons offense,,
+12161,weapons carrying etc,weapons offense,,
+12162,weapons carrying etc,weapons offense,,
+12163,weapons carrying etc,weapons offense,,
+12164,weapons carrying etc,weapons offense,,
+12165,weapons carrying etc,weapons offense,,
+12166,weapons carrying etc,weapons offense,,
+12167,weapons carrying etc,weapons offense,,
+12168,weapons carrying etc,weapons offense,,
+12169,weapons carrying etc,weapons offense,,
+12171,weapons carrying etc,weapons offense,,
+12172,weapons carrying etc,weapons offense,,
+12173,weapons carrying etc,weapons offense,,
+13010,prostitution,prostitution,,
+13020,prostitution,prostitution,,
+13030,"human trafficking, commercial sex acts","human trafficking, commercial sex acts",,
+13045,"human trafficking (a), commercial sex acts","human trafficking, commercial sex acts",,
+13050,"human trafficking, commercial sex acts","human trafficking, commercial sex acts",,
+13060,prostitution,prostitution,,
+13070,prostitution,prostitution,,
+13071,"human trafficking (a), commercial sex acts","human trafficking (a), commercial sex act",,
+13073,"human trafficking (a), commercial sex acts","human trafficking, commercial sex acts",,
+13075,prostitution,prostitution,,
+13080,"human trafficking (b), involuntary servitude","human trafficking, involuntary servitude",,
+13110,prostitution,prostitution,,
+13111,prostitution,prostitution,,
+13115,disorderly conduct,disorderly conduct,,
+13120,disorderly conduct,disorderly conduct,,
+14010,sex offense,"sex offense, child",,
+14015,sex offense,"sex offense, child",,
+14016,"human trafficking (a), commercial sex acts","human trafficking (a), commercial sex acts",,
+14017,sex offense,sex offense,,
+14020,sex offense,sex offense,,
+14030,sex offense,sex offense,,
+14031,sex offense,sex offense,,
+14040,sex offense,sex offense,,
+14041,sex offense,prostitution,,
+14042,sex offense,sex offense,,
+14043,sex offense,sex offense,,
+14044,sex offense,sex offense,,
+14045,sex offense,sex offense,,
+14050,rape,rape,rape,2
+14052,rape,rape,rape,2
+14060,sex offense,sex offense,,
+14070,rape,rape,rape,2
+14072,rape,rape,rape,2
+15010,family offense,child abuse,,
+15015,family offense,child abuse,,
+15016,sex offense,child abuse,,
+15017,sex offense,child abuse,,
+15020,sex offense,child abuse,,
+15021,offences against the family and children,kidnapping,,
+15022,offences against the family and children,kidnapping,,
+15030,offences against the family and children,other,,
+15031,offences against the family and children,drug violation,,
+15032,offences against the family and children,drug violation,,
+15040,offences against the family and children,family offenses,,
+15041,offences against the family and children,family offenses,,
+15050,offences against the family and children,family offenses,,
+15051,offences against the family and children,family offenses,,
+15052,offences against the family and children,family offenses,,
+15054,offences against the family and children,family offenses,,
+15060,offences against the family and children,family offenses,,
+15070,offences against the family and children,family offenses,,
+15080,offences against the family and children,family offenses,,
+15090,offences against the family and children,family offenses,,
+15095,offences against the family and children,other,,
+15097,offences against the family and children,other,,
+15100,offences against the family and children,family offenses,,
+15150,offences against the family and children,other,,
+15151,offences against the family and children,other,,
+15152,offences against the family and children,other,,
+15153,offences against the family and children,other,,
+15154,offences against the family and children,other,,
+15155,offences against the family and children,other,,
+15160,offences against the family and children,other,,
+15161,offences against the family and children,other,,
+15162,offences against the family and children,other,,
+15163,offences against the family and children,other,,
+15200,offences against the family and children,other,,
+15201,offences against the family and children,stalking,,
+15300,offences against the family and children,other,,
+15301,offences against the family and children,intimidation,,
+15302,offences against the family and children,intimidation,,
+15303,offences against the family and children,intimidation,,
+15400,offences against the family and children,other,,
+15401,offences against the family and children,loitering,,
+15500,offences against the family and children,other,,
+16010,drug offense,drug violation,,
+16020,drug offense,drug violation,,
+16030,drug offense,drug violation,,
+16040,drug offense,drug violation,,
+16050,drug offense,drug violation,,
+16060,drug offense,drug violation,,
+16070,drug offense,drug violation,,
+16100,drug offense,drug violation,,
+16110,drug offense,drug violation,,
+16120,drug offense,drug violation,,
+16130,drug offense,drug violation,,
+16140,drug offense,drug violation,,
+16210,drug offense,drug violation,,
+16220,drug offense,drug violation,,
+16230,drug offense,drug violation,,
+16240,drug offense,drug violation,,
+16250,drug offense,drug violation,,
+16310,drug offense,drug violation,,
+16320,drug offense,drug violation,,
+16330,drug offense,drug violation,,
+16340,drug offense,drug violation,,
+16350,drug offense,drug violation,,
+16410,drug offense,drug violation,,
+16420,drug offense,drug violation,,
+16430,drug offense,drug violation,,
+16440,drug offense,drug violation,,
+16450,drug offense,drug violation,,
+16510,drug offense,drug violation,,
+16520,drug offense,drug violation,,
+16530,drug offense,drug violation,,
+16540,drug offense,drug violation,,
+16550,drug offense,drug violation,,
+16560,drug offense,drug violation,,
+16610,drug offense,drug violation,,
+16612,drug offense,drug violation,,
+16614,drug offense,drug violation,,
+16616,drug offense,drug violation,,
+16618,drug offense,drug violation,,
+16620,drug offense,drug violation,,
+16621,drug offense,drug violation,,
+16622,drug offense,drug violation,,
+16623,drug offense,drug violation,,
+16624,drug offense,drug violation,,
+16625,drug offense,drug violation,,
+16626,drug offense,drug violation,,
+16628,drug offense,drug violation,,
+16629,drug offense,drug violation,,
+16630,drug offense,drug violation,,
+16632,drug offense,drug violation,,
+16634,drug offense,drug violation,,
+16636,drug offense,drug violation,,
+16638,drug offense,drug violation,,
+16640,drug offense,drug violation,,
+16642,drug offense,drug violation,,
+16644,drug offense,drug violation,,
+16645,drug offense,drug violation,,
+16646,drug offense,drug violation,,
+16648,drug offense,drug violation,,
+16650,drug offense,drug violation,,
+16652,drug offense,drug violation,,
+16654,drug offense,drug violation,,
+16656,drug offense,drug violation,,
+16658,drug offense,drug violation,,
+16660,drug offense,drug violation,,
+16662,drug offense,drug violation,,
+16664,drug offense,drug violation,,
+16666,drug offense,drug violation,,
+16668,drug offense,drug violation,,
+16700,drug offense,drug violation,,
+16704,drug offense,drug violation,,
+16705,drug offense,drug violation,,
+16710,drug offense,drug violation,,
+16711,drug offense,drug violation,,
+16712,drug offense,drug violation,,
+16720,drug offense,drug violation,,
+16730,drug offense,drug violation,,
+16740,drug offense,drug violation,,
+16750,drug offense,drug violation,,
+16760,drug offense,drug violation,,
+16780,drug violation,drug violation,,
+17010,liquor laws,liquor law violation,,
+17020,liquor laws,liquor law violation,,
+17030,liquor laws,liquor law violation,,
+17031,liquor laws,liquor law violation,,
+17040,liquor laws,liquor law violation,,
+17050,liquor laws,liquor law violation,,
+17060,liquor laws,liquor law violation,,
+17070,liquor laws,liquor law violation,,
+17071,liquor laws,liquor law violation,,
+17072,liquor laws,liquor law violation,,
+17080,liquor laws,liquor law violation,,
+17090,liquor laws,liquor law violation,,
+17100,liquor laws,liquor law violation,,
+17110,liquor laws,liquor law violation,,
+17120,liquor laws,liquor law violation,,
+17130,liquor laws,liquor law violation,,
+19010,disorderly conduct,disorderly conduct,,
+19015,disorderly conduct,disorderly conduct,,
+19020,disorderly conduct,disorderly conduct,,
+19022,disorderly conduct,disorderly conduct,,
+19024,disorderly conduct,disorderly conduct,,
+19025,disorderly conduct,disorderly conduct,,
+19026,disorderly conduct,disorderly conduct,,
+19028,disorderly conduct,disorderly conduct,,
+19030,disorderly conduct,disorderly conduct,,
+19031,disorderly conduct,disorderly conduct,,
+19032,disorderly conduct,disorderly conduct,,
+19040,disorderly conduct,disorderly conduct,,
+19050,disorderly conduct,disorderly conduct,,
+19051,disorderly conduct,disorderly conduct,,
+19053,disorderly conduct,intimidation,,
+19055,disorderly conduct,intimidation,,
+19057,disorderly conduct,intimidation,,
+19058,disorderly conduct,disorderly conduct,,
+19060,disorderly conduct,loitering,,
+19062,disorderly conduct,loitering,,
+19065,disorderly conduct,loitering,,
+19070,disorderly conduct,loitering,,
+19071,disorderly conduct,loitering,,
+19072,disorderly conduct,loitering,,
+19075,disorderly conduct,loitering,,
+19076,disorderly conduct,loitering,,
+19077,disorderly conduct,loitering,,
+19078,disorderly conduct,loitering,,
+19080,disorderly conduct,intimidation,,
+19081,disorderly conduct,disorderly conduct,,
+19082,disorderly conduct,trespass,,
+19083,disorderly conduct,weapons offense,,
+19084,disorderly conduct,other,,
+19086,disorderly conduct,other,,
+19087,disorderly conduct,trespass,,
+19088,disorderly conduct,loitering,,
+19089,disorderly conduct,other,,
+19090,disorderly conduct,drunkenness,,
+19095,disorderly conduct,drug violation,,
+19100,disorderly conduct,loitering,,
+19400,disorderly conduct,other,,
+26010,other miscellaneous,other,,
+26020,other miscellaneous,other,,
+26028,other miscellaneous,other,,
+26029,arson,arson,arson,8
+26030,arson,arson,arson,8
+26031,arson,arson,arson,8
+26032,arson,arson,arson,8
+26033,arson,arson,arson,8
+26034,arson,arson,arson,8
+26035,arson,arson,arson,8
+26036,arson,arson,arson,8
+26037,arson,arson,arson,8
+26038,arson,arson,arson,8
+26039,arson,arson,arson,8
+26040,other miscellaneous,extortion-blackmail,,
+26050,other miscellaneous,bribery,,
+26060,other miscellaneous,bribery,,
+26061,other miscellaneous,bribery,,
+26062,other miscellaneous,bribery,,
+26063,other miscellaneous,other,,
+26070,other miscellaneous,kidnapping,,
+26080,other miscellaneous,other,,
+26090,other miscellaneous,other,,
+26095,other miscellaneous,other,,
+26100,other miscellaneous,extortion-blackmail,,
+26105,other miscellaneous,other,,
+26110,other miscellaneous,other,,
+26120,other miscellaneous,other,,
+26130,other miscellaneous,extortion-blackmail,,
+26135,other miscellaneous,intimidation,,
+26140,other miscellaneous,kidnapping,,
+26141,other miscellaneous,kidnapping,,
+26142,other miscellaneous,kidnapping,,
+26143,other miscellaneous,kidnapping,,
+26144,other miscellaneous,kidnapping,,
+26145,larceny theft,larceny theft - other,larceny theft,6
+26146,"human trafficking, involuntary servitude","human trafficking, involuntary servitude",,
+26147,other miscellaneous,kidnapping,,
+26148,other miscellaneous,kidnapping,,
+26149,other miscellaneous,kidnapping,,
+26150,other miscellaneous,other,,
+26160,other miscellaneous,other,,
+26170,other miscellaneous,other,,
+26175,other miscellaneous,other,,
+26176,other miscellaneous,other,,
+26177,other miscellaneous,other,,
+26178,other miscellaneous,other,,
+26180,other miscellaneous,other,,
+26190,other miscellaneous,other,,
+26200,other miscellaneous,other,,
+26210,other miscellaneous,intimidation,,
+26211,other miscellaneous,intimidation,,
+26212,other miscellaneous,other,,
+26213,other miscellaneous,other,,
+26214,other miscellaneous,other,,
+27010,other miscellaneous,fraud,,
+27020,other miscellaneous,fraud,,
+27030,other miscellaneous,other,,
+27031,other miscellaneous,other,,
+27040,other miscellaneous,other,,
+27050,other miscellaneous,other,,
+27060,other miscellaneous,other,,
+27065,other miscellaneous,fraud,,
+27066,other miscellaneous,other,,
+27067,other miscellaneous,other,,
+27068,other miscellaneous,other,,
+27070,other miscellaneous,other,,
+27071,other miscellaneous,other,,
+27072,other miscellaneous,other,,
+27080,other miscellaneous,other,,
+27082,other miscellaneous,other,,
+27090,larceny theft,larceny theft - other,larceny theft,6
+27100,other miscellaneous,disorderly conduct,,
+27110,other miscellaneous,disorderly conduct,,
+27120,other miscellaneous,simple assault,,
+27121,other miscellaneous,other,,
+27122,other miscellaneous,weapons offense,,
+27130,other miscellaneous,other,,
+27131,other miscellaneous,other,,
+27140,other miscellaneous,other,,
+27145,other miscellaneous,other,,
+27150,other miscellaneous,fraud,,
+27155,other miscellaneous,fraud,,
+27160,other miscellaneous,fraud,,
+27165,other miscellaneous,other,,
+27170,other miscellaneous,other,,
+27171,other miscellaneous,intimidation,,
+27172,other miscellaneous,intimidation,,
+27173,other miscellaneous,other,,
+27174,other miscellaneous,other,,
+27175,other miscellaneous,other,,
+27176,other miscellaneous,other,,
+27177,other miscellaneous,other,,
+27180,other miscellaneous,other,,
+27185,other miscellaneous,other,,
+27190,other miscellaneous,other,,
+27195,other miscellaneous,trespass,,
+27196,other miscellaneous,other,,
+27197,other miscellaneous,trespass,,
+27198,other miscellaneous,loitering,,
+27199,other miscellaneous,loitering,,
+27200,other miscellaneous,trespass,,
+27201,other miscellaneous,larceny theft - other,larceny theft,6
+27210,other miscellaneous,other,,
+27220,other miscellaneous,other,,
+27300,other miscellaneous,other,,
+28010,malicious mischief,other,,
+28020,malicious mischief,vandalism,,
+28030,malicious mischief,vandalism,,
+28040,malicious mischief,vandalism,,
+28050,malicious mischief,vandalism,,
+28060,malicious mischief,vandalism,,
+28070,malicious mischief,vandalism,,
+28080,malicious mischief,other,,
+28091,malicious mischief,vandalism,,
+28092,malicious mischief,vandalism,,
+28100,malicious mischief,vandalism,,
+28102,malicious mischief,vandalism,,
+28103,malicious mischief,vandalism,,
+28110,malicious mischief,vandalism,,
+28120,malicious mischief,vandalism,,
+28130,malicious mischief,vandalism,,
+28135,malicious mischief,other,,
+28136,malicious mischief,other,,
+28140,malicious mischief,vandalism,,
+28150,malicious mischief,vandalism,,
+28160,malicious mischief,vandalism,,
+28161,malicious mischief,vandalism,,
+28164,malicious mischief,vandalism,,
+28165,malicious mischief,vandalism,,
+28166,malicious mischief,vandalism,,
+28167,malicious mischief,vandalism,,
+28168,malicious mischief,vandalism,,
+28169,malicious mischief,vandalism,,
+28170,malicious mischief,other,,
+28180,malicious mischief,other,,
+28181,malicious mischief,other,,
+29010,malicious mischief,other,,
+29020,malicious mischief,other,,
+29030,juvenile offenses,other,,
+29040,juvenile offenses,other,,
+29050,juvenile offenses,runaway,,
+29060,juvenile offenses,other,,
+29070,juvenile offenses,other,,
+29080,liquor laws,liquor law violation,,
+29081,liquor laws,liquor law violation,,
+29082,juvenile offenses,other,,
+29083,juvenile offenses,other,,
+29090,juvenile offenses,other,,
+29100,juvenile offenses,runaway,,
+29110,juvenile offenses,family offenses,,
+29120,juvenile offenses,other,,
+29130,juvenile offenses,family offenses,,
+29170,juvenile offenses,family offenses,,
+30000,other offenses,other,,
+30001,other offenses,other,,
+30003,other offenses,other,,
+30004,other offenses,other,,
+30005,other offenses,other,,
+30006,other offenses,other,,
+30007,other offenses,other,,
+30008,other offenses,other,,
+30009,other offenses,other,,
+30010,other offenses,other,,
+30011,other offenses,other,,
+30020,other offenses,other,,
+30030,other offenses,other,,
+30040,other offenses,other,,
+30050,other offenses,other,,
+30060,other offenses,other,,
+30070,other offenses,other,,
+30080,other offenses,other,,
+30090,other offenses,other,,
+30100,other offenses,other,,
+30105,other offenses,other,,
+30110,other offenses,other,,
+30120,other offenses,other,,
+30130,other offenses,other,,
+30131,other offenses,other,,
+30132,other offenses,other,,
+30140,other offenses,other,,
+30150,other offenses,other,,
+30155,other offenses,other,,
+30160,other offenses,other,,
+30170,other offenses,other,,
+30180,other offenses,other,,
+30190,other offenses,other,,
+30191,other offenses,other,,
+30192,other offenses,other,,
+30200,other offenses,other,,
+30205,other offenses,other,,
+30206,other offenses,other,,
+30210,other offenses,other,,
+30220,other offenses,other,,
+31000,other offenses,other,,
+51010,non-criminal,non-criminal,,
+51020,non-criminal,non-criminal,,
+51030,non-criminal,non-criminal,,
+51040,non-criminal,non-criminal,,
+51041,non-criminal,non-criminal,,
+51050,non-criminal,non-criminal,,
+60010,suicide,suicide,,
+60020,suicide,suicide,,
+60030,suicide,suicide,,
+60040,suicide,suicide,,
+60050,suicide,suicide,,
+60060,suicide,suicide,,
+60070,suicide,suicide,,
+60080,suicide,suicide,,
+60090,suicide,suicide,,
+60110,suicide,suicide,,
+60120,suicide,suicide,,
+60130,suicide,suicide,,
+60140,suicide,suicide,,
+60150,suicide,suicide,,
+60160,suicide,suicide,,
+60170,suicide,suicide,,
+60180,suicide,suicide,,
+60190,suicide,suicide,,
+61010,other,other,,
+61020,other,other,,
+61030,other,other,,
+61040,other,other,,
+61050,other,other,,
+62010,warrant,warrant,,
+62020,warrant,warrant,,
+62030,warrant,warrant,,
+62040,warrant,warrant,,
+62050,warrant,warrant,,
+62060,warrant,warrant,,
+62070,warrant,other,,
+62071,warrant,other,,
+62072,warrant,other,,
+63010,warrant,other,,
+64000,civil sidewalks,other,,
+64001,civil sidewalks,other,,
+64002,civil sidewalks,other,,
+64003,civil sidewalks,other,,
+64010,non-criminal,other,,
+64011,non-criminal,other,,
+64012,non-criminal,other,,
+64013,non-criminal,other,,
+64014,non-criminal,other,,
+64015,non-criminal,other,,
+64016,non-criminal,other,,
+64017,non-criminal,other,,
+64018,non-criminal,other,,
+64019,non-criminal,other,,
+64020,non-criminal,other,,
+64030,non-criminal,other,,
+64040,other offenses,other offenses,,
+64050,suspicious occ,suspicious occ,,
+64060,suspicious occ,suspicious occ,,
+64065,suspicious occ,suspicious occ,,
+64070,suspicious occ,suspicious occ,,
+64072,suspicious occ,suspicious occ,,
+64080,suspicious occ,suspicious occ,,
+64085,other miscellaneous,other,,
+64090,other miscellaneous,suspicious occ,,
+65010,traffic violation arrest,traffic violation arrest,,
+65013,other miscellaneous,arrest,,
+65014,other miscellaneous,other,,
+65015,other miscellaneous,other,,
+65016,other miscellaneous,other,,
+65020,other miscellaneous,other,,
+65030,other miscellaneous,other,,
+65040,other miscellaneous,other,,
+65050,other miscellaneous,other,,
+65055,other miscellaneous,liquor law violation,,
+65056,other miscellaneous,liquor law violation,,
+65057,other miscellaneous,liquor law violation,,
+65060,other miscellaneous,liquor law violation,,
+65070,other miscellaneous,other,,
+65080,other miscellaneous,other,,
+66010,gambling,gambling,,
+66020,gambling,gambling,,
+66030,gambling,gambling,,
+66040,gambling,gambling,,
+66050,gambling,gambling,,
+66060,traffic collision,traffic collision - hit & run,,
+68000,fire report,fire report,,
+68020,miscellaneous investigation,miscellaneous investigation,,
+68021,miscellaneous investigation,other,,
+68030,courtesy report,courtesy report,,
+68050,traffic collision,traffic collision,,
+68051,other offenses,other offenses,,
+68052,other offenses,other offenses,,
+68053,other offenses,other offenses,,
+68054,other offenses,other offenses,,
+68055,other offenses,other offenses,,
+68056,other offenses,other offenses,,
+68057,other offenses,other offenses,,
+68058,other offenses,other offenses,,
+68059,other offenses,other offenses,,
+68060,traffic collision,traffic collision - hit & run,,
+68069,traffic collision,traffic collision - hit & run,,
+71000,lost property,lost property,,
+71010,other offenses,other offenses,,
+71011,other offenses,other offenses,,
+71012,other offenses,other offenses,,
+71013,larceny theft,theft from vehicle,,
+71014,non-criminal,non-criminal,,
+71015,non-criminal,non-criminal,,
+71016,non-criminal,non-criminal,,
+71017,non-criminal,non-criminal,,
+71018,non-criminal,non-criminal,,
+71019,non-criminal,non-criminal,,
+71020,non-criminal,non-criminal,,
+71021,non-criminal,non-criminal,,
+71022,non-criminal,non-criminal,,
+71024,non-criminal,non-criminal,,
+72000,non-criminal,non-criminal,,
+72023,non-criminal,non-criminal,,
+73000,non-criminal,non-criminal,,
+73001,non-criminal,non-criminal,,
+73010,non-criminal,non-criminal,,
+74000,missing person,missing adult,,
+74010,missing person,missing juvenile,,
+75000,missing person,missing person,,
+75025,non-criminal,non-criminal,,
+75030,case closure,case closure,,
